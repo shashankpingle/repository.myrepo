@@ -6,8 +6,13 @@
 			<checksum>https://raw.githubusercontent.com/totalrevolution/python-koding/master/zips/addons.xml.md5</checksum>
 			<datadir zip="true">https://github.com/totalrevolution/python-koding/tree/master/zips/</datadir>
 		</dir>
+<<<<<<< HEAD
 		<info compressed="false">https://github.com/shashankpingle/repository.myrepo/blob/master/zips/addons.xml</info>
 		<checksum>https://github.com/shashankpingle/repository.myrepo/blob/master/zips/addons.xml.md5</checksum>
+=======
+		<info compressed="false">https://raw.githubusercontent.com/shashankpingle/repository.myrepo/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/shashankpingle/repository.myrepo/master/zips/addons.xml.md5</checksum>
+>>>>>>> 6aa9c76f501167905368e9905482ab42a6a800c2
 		<datadir zip="true">https://github.com/shashankpingle/repository.myrepo/tree/master/zips/</datadir>
 	</extension>
 	<extension point="xbmc.addon.metadata">
